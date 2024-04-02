@@ -1,0 +1,8 @@
+[autorun]
+label="UTE Model 12 CNC Tube Bender CD"
+open="autorun.exe"
+icon="autorun.exe,0"
+shell\0\command="autorun.exe . "
+shell\0="Explore This CD"
+shell\1\command="autorun.exe ute_website.url "
+shell\1="Visit Universal Tools Website"
